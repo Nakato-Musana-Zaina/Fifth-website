@@ -1,0 +1,246 @@
+.div1{
+    background-color: black;
+    color: white;
+}
+body{
+    margin-left: 20%;
+}
+.link1{
+    color: white;
+}
+.container1{
+display: grid;
+grid-template-columns: 2fr 2fr;
+
+
+}
+.span1{
+    text-align: left;
+}
+.span2{
+    text-align: right;
+}
+.div3{
+    display: flex;
+    gap: 8%;
+}
+.text3{
+    color: orange;
+}
+.div4{
+    padding: 300px;
+    background-image: url(https://media.istockphoto.com/id/1162527308/photo/our-little-boy.jpg?s=612x612&w=0&k=20&c=Aa48UEtFvvxstbz3QIub-028jvdnPsYu7UduHWXFbuY=);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+
+
+}
+.text6{
+    font-size: xx-large;
+}
+.button1{
+    background-color: orange;
+    color: antiquewhite;
+    padding: 18px;
+}
+.text8{
+    font-size: xx-large;
+}
+.text9{
+    color: grey;
+}
+.image1{
+    width: 90%;
+    height: 70%;
+}
+.image2{
+    width: 200%;
+
+}
+.image3{
+    width: 100%;
+    
+}
+.div6{
+    display: flex;
+}
+.div7{
+    display: flex;
+    gap: 8%;
+}
+.center{
+    text-align: center;
+}
+.div8{
+    display: flex;
+    gap: 12%;
+}
+.bluediv{
+    background-color: blue;
+    color: white;
+    padding: 5%;
+
+}
+.div9{
+    display: flex;
+    gap: 8%;
+}
+.div10{
+    display: flex;
+    gap: 10%;
+    padding: 18px;
+    
+
+}
+.frame2{
+    background-color: blue;
+    color: white;
+    width: 80%;
+    padding: 40px;
+}
+.frame2background{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlDV2ZCr9_WXSd0nmYxouC5qWHTFlfgT5NHIYXfgS8W0ohUQ4fsmoudTbkP8II7dluh5Y&usqp=CAU);
+    background-repeat: no-repeat;
+    width: 250%;
+    height: 250%;
+    color: black;
+}
+.board{
+    background-color: white;
+    width: 30%;
+}
+.text11{
+    color: black;
+}
+
+.link2{
+    color: orange;
+}
+.para1{
+    color: grey;
+    text-align: center;
+}
+.text12{
+    color: white;
+
+}
+.text13{
+    color: white;
+    font-size: xx-large;
+}
+.div12{
+    display: flex;
+    gap: 8%;
+}
+.input{
+    padding: 12px;
+    border: solid 2px;
+}
+.button3{
+    background-color: orange;
+    border-radius: 5%;
+    padding: 12px;
+}
+.image8{
+ width: 100%;  
+ aspect-ratio: 2.5; 
+}
+.div12{
+display: flex;
+gap: none;
+background-color: blue;
+
+}
+.div13{
+background-color: orange;
+width: 40%;
+}
+.div14{
+    width: 60%;
+}
+.div15{
+    display: flex;
+    gap: 5%;
+}
+.para3{
+    text-align: center;
+}
+.div16{
+    display: flex;
+    gap: 8%
+}
+.para4{
+ display: flex; 
+ gap: 60%;  
+ text-align: center;
+}
+.div17{
+  display: flex; 
+  gap: 5%; 
+  margin-left: 28%;
+
+}
+.div18{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToBb-tx5kOgCPWcvbC_S9-nl2BleTFPstNFhTIdyN9czM2Oxt28i5fDCleAniHpLXzmeQ&usqp=CAU); 
+    padding: 50px; 
+    background-repeat: no-repeat;
+    filter:grayscale();
+}
+.div19{
+    background-color: orange;
+    color: aliceblue;
+    text-align: center;
+    padding: 50px;
+}
+.button4{
+    padding: 12px;
+    background-color: black;
+    color: aliceblue;
+
+}.footer{
+    display: flex;
+    gap: 18%;
+    /* margin-left: 35%; */
+    color: aliceblue;
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media all and (max-width: 500px) {
+    body{
+        /* color:aqua; */
+    }
+}
